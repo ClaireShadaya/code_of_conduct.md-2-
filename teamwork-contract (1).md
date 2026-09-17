@@ -31,15 +31,15 @@ What are the names of all the team members?
 2 days
 
 **Process for notifying the team if a member cannot complete tasks on time:**
-5days
+Team member should notify us 3 days before the deadline
 
 **Quality standards for all submissions:**
-[Answer]
+Should be tested and applicable. The document should also be reviewed by at least 1 other team member
 
 ## Communication
 
 **Regular in-person meetings (when, where, and purpose):**
-[Answer]
+
 
 **Regular online meetings (when and on what platform):**
 [Answer]
