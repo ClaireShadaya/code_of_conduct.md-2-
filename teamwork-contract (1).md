@@ -25,10 +25,10 @@ What are the names of all the team members?
 ## Expectations
 
 **Maximum hours per week committed (including meetings):**
-[Answer]
+2
 
 **How far in advance of a deliverable deadline should tasks be completed?**
-[Answer]
+2 days
 
 **Process for notifying the team if a member cannot complete tasks on time:**
 [Answer]
