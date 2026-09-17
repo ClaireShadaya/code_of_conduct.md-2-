@@ -53,29 +53,32 @@ weekly schedule
 ## Task Management
 
 **System to track tasks and progress:**
-[Answer]
+We will use GitHub Issues/Projects to track project tasks. Each task should have a clear description, assigned team member and expected completion date.
 
 **Process for assigning tasks and marking them as complete:**
-[Answer]
+Tasks will be assigned during team meetings based on members' skills, interests, availability and workload. The assigned member is responsible for keeping the task status updated. A task should only be marked done; after the required work has been completed, tested or reviewed where applicable and integrated into the project.
 
-## Code Reviews and Contributions
 
+## Code Reviews and Contributions          
 **Branching strategy for the GitHub repository:**
-[Answer]
+The main branch will contain stable work. Team members will create separate branches for features or tasks they are working on and avoid making major changes directly to the main branch.
 
 **Process for submitting and merging pull requests:**
-[Answer]
+When work on a branch is ready, the team member will create a pull request with a short explanation of what was changed. At least one other team member should review the pull request before it is merged into the main branch.
 
 **Expected timeframe for reviewing a teammate's pull request:**
-[Answer]
+Team members should try to review pull requests within 24–48 hours. If something is urgent because of a deadline, the team will communicate through WhatsApp.
 
 ## Breach of Contract
 
 What is our agreed-upon three-step process for addressing a breach of this contract?
 
-1. [Answer]
-2. [Answer]
-3. [Answer]
+1.⁠ ⁠*Direct discussion:* The team will first privately discuss the issue with the member involved, clarify expectations, understand the circumstances, and agree on a reasonable solution or corrective action.
+2.⁠ ⁠*Team discussion and documentation:* If the problem continues, the team will discuss it formally as a group, document the concern and agreed actions, and establish a clear deadline for improvement.
+3.⁠ ⁠*Mentor/instructor involvement:* If the issue remains unresolved or seriously affects the project, the team will bring the documented concern to the mentor or instructor and follow their guidance.
+
+The purpose of this process is to resolve problems fairly and professionally rather than immediately assigning blame.
+
 
 ## Values Exercise
 
