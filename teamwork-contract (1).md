@@ -17,10 +17,10 @@ This is graded on specificity rather than polish. "We will communicate well" car
 
 What are the names of all the team members?
 
-- [Team Member Name 1]
-- [Team Member Name 2]
-- [Team Member Name 3]
-- [Team Member Name 4]
+- Claire Shadaya
+- Faisal Al Rashid
+- Emmanuel Masango
+- Bhawnjot 
 
 ## Expectations
 
