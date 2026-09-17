@@ -25,13 +25,13 @@ What are the names of all the team members?
 ## Expectations
 
 **Maximum hours per week committed (including meetings):**
-2
+Approximately 8–10 hours per week per team member, depending on the workload and upcoming deadlines.
 
 **How far in advance of a deliverable deadline should tasks be completed?**
-2 days
+Individual tasks should ideally be completed at least 1–2 days before the final deliverable deadline.
 
 **Process for notifying the team if a member cannot complete tasks on time:**
-Team member should notify us 3 days before the deadline
+The member should notify the team as soon as they become aware of the issue, preferably at least 1–2 hours before the internal deadline. They should explain what has been completed, what remains unfinished, and whether they need assistance or reassignment of part of the task.
 
 **Quality standards for all submissions:**
 Should be tested and applicable. The document should also be reviewed by at least 1 other team member
@@ -42,13 +42,13 @@ Should be tested and applicable. The document should also be reviewed by at leas
 we will meet every monday at 1pm for atleast 1 hour
 
 **Regular online meetings (when and on what platform):**
-weekly on whatsapp
+Additional online meetings will be held as needed, especially before major deadlines, using Microsoft Teams, Zoom, or Discord depending on the team's preference.
 
 **Primary communication tools for informal and project-related discussions:**
-Whatsapp and teams
+A team group chat, such as Microsoft Teams, Discord, or WhatsApp, will be used for quick communication.
 
 **How and when we will meet with our mentor:**
-weekly schedule
+The team will meet with the mentor regularly according to the agreed course/project schedule and whenever significant guidance is required.
 
 ## Task Management
 
@@ -90,15 +90,14 @@ Accountability · Achievement · Adaptability · Ambition · Authenticity · Bal
 
 ### Example
 
-**Name:** [Team Member Name]
+**Name:** Bhawanjot kaur
 
-| Value | Definition / Example |
-|---|---|
-| Integrity | I clearly document my data sources, explain assumptions in analyses, and honestly report any errors or uncertainties in my code or results. |
-| Respect | I review teammates' code carefully before giving feedback, respond constructively to suggestions, and respect others' time by showing up prepared to meetings and discussions. |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
+Value	            Definition / Example
+Accountability:	I take responsibility for the tasks assigned to me, communicate early if a problem occurs, and make sure my work is completed by the agreed deadline.
+Integrity:	I am honest about my progress, mistakes, limitations, and contributions and do not claim work that I did not complete.
+Respect:	I listen to teammates' ideas, provide constructive feedback, and respect their time, backgrounds, and perspectives.
+Quality:	I aim to produce work that is accurate, tested, organized, and suitable for inclusion in the final project.
+Reliability:	My teammates should be able to depend on me to attend meetings, respond to important messages, and complete agreed responsibilities.
 
 ### Team member values
 
