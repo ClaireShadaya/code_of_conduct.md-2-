@@ -39,16 +39,16 @@ Should be tested and applicable. The document should also be reviewed by at leas
 ## Communication
 
 **Regular in-person meetings (when, where, and purpose):**
-
+we will meet every monday at 1pm for atleast 1 hour
 
 **Regular online meetings (when and on what platform):**
-[Answer]
+weekly on whatsapp
 
 **Primary communication tools for informal and project-related discussions:**
-[Answer]
+Whatsapp and teams
 
 **How and when we will meet with our mentor:**
-[Answer]
+weekly schedule
 
 ## Task Management
 
