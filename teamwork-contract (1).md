@@ -20,7 +20,7 @@ What are the names of all the team members?
 - Claire Shadaya
 - Faisal Al Rashid
 - Emmanuel Masango
-- Bhawnjot 
+- Bhawnjot Kaur
 
 ## Expectations
 
