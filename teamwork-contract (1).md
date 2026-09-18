@@ -111,15 +111,15 @@ Reliability:	My teammates should be able to depend on me to attend meetings, res
 | 4 | [Definition / Example] |
 | 5 | [Definition / Example] |
 
-**Name:** [Team Member Name]
+**Name:** Emmanuel Masango 
 
 | Value | Definition / Example |
 |---|---|
-| 1 | [Definition / Example] |
-| 2 | [Definition / Example] |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
+| 1 | Respect - My main personal value is respect, I respect all the people i work with and i also expect the same from them  |
+| 2 | Ambition - I am driven whenever I have a task to complete and i ensure i get it done . |
+| 3 | Accountability - I take account of everything i do and ensure everyone is aware of the work I would have done |
+| 4 | Teamwork - Very good in working in groups , and i put the core values of the team first above anything |
+| 5 | Fairness - I do everything considering each group mate making everything fair for everybody|
 
 **Name:** [Team Member Name]
 
@@ -146,6 +146,6 @@ Reliability:	My teammates should be able to depend on me to attend meetings, res
 By signing below, each team member agrees to the terms and conditions outlined in this contract.
 
 - [Signature — Name 1] — [Date]
-- [Signature — Name 2] — [Date]
+- EM Emmanuel Masango — 17/09/2026
 - [Signature — Name 3] — [Date]
 - [Signature — Name 4] — [Date]
