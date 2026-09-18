@@ -88,7 +88,8 @@ Each team member should pick their **top 5 personal values** from the list of co
 Accountability · Achievement · Adaptability · Ambition · Authenticity · Balance · Collaboration · Compassion · Courage · Creativity · Curiosity · Dependability · Discipline · Empathy · Equity · Excellence · Fairness · Family · Flexibility · Growth · Health · Honesty · Humility · Humour · Independence · Initiative · Integrity · Kindness · Leadership · Learning · Loyalty · Openness · Optimism · Patience · Perseverance · Precision · Pragmatism · Privacy · Recognition · Reliability · Respect · Responsibility · Security · Self-improvement · Service · Simplicity · Stability · Sustainability · Teamwork · Transparency · Trust · Wellbeing
 :::
 
-### Example
+
+### Team member values
 
 **Name:** Bhawanjot kaur
 
@@ -98,18 +99,6 @@ Integrity:	I am honest about my progress, mistakes, limitations, and contributio
 Respect:	I listen to teammates' ideas, provide constructive feedback, and respect their time, backgrounds, and perspectives.
 Quality:	I aim to produce work that is accurate, tested, organized, and suitable for inclusion in the final project.
 Reliability:	My teammates should be able to depend on me to attend meetings, respond to important messages, and complete agreed responsibilities.
-
-### Team member values
-
-**Name:** [Team Member Name]
-
-| Value | Definition / Example |
-|---|---|
-| 1 | [Definition / Example] |
-| 2 | [Definition / Example] |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
 
 **Name:** Emmanuel Masango 
 
