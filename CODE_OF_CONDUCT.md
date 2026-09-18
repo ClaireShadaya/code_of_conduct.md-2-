@@ -56,7 +56,7 @@ The team will meet with the mentor regularly according to the agreed course/proj
 We will use GitHub Issues/Projects to keep track of our project tasks and progress; tasks will include what needs to be done, who is responsible for it and the expected completion date. Also, team members will update their tasks as work progresses so everyone can see what is completed, in progress or still needs to be done. 
 
 **Process for assigning tasks and marking them as complete:**
-We will discuss and divide tasks during our Monday team meetings based on each member's skills, interests, availability and current workload.And each member will be responsible for the tasks they agree to take on and should let the team know early if they are stuck or may not finish on time. Also, a task will be marked complete once the work is finished, checked or tested where needed and ready to be used as part of the project.
+We will discuss and divide tasks during our Monday team meetings based on each member's skills, interests, availability and current workload. And each member will be responsible for the tasks they agree to take on and should let the team know early if they are stuck or may not finish on time. Also, a task will be marked complete once the work is finished, checked or tested where needed and ready to be used as part of the project.
 
 
 ## Code Reviews and Contributions          
@@ -125,11 +125,11 @@ Reliability:	My teammates should be able to depend on me to attend meetings, res
 
 | Value | Definition / Example |
 |---|---|
-| 1 | Learning | I like learning new things as I work, especially when I come across a tool or technology I have not used before; and I am always willing to ask questions and learn from my teammates when needed. |
-| 2 | Accountability | If I take responsibility for a task, I will try to complete it on time and be honest with the team if I am stuck or running behind. |
-| 3 | Teamwork | I like hearing different ideas and working together instead of everyone working separately without knowing what the others are doing. |
-| 4 | Reliability | I want my teammates to be able to rely on me to attend our meetings, respond to important messages and complete the work I agreed to do. |
-| 5 | Curiosity | I like understanding how something works and looking at different ways we could solve a problem instead of immediately settling on the first solution. |
+| 1 | Learning - I like learning new things as I work, especially when I come across a tool or technology I have not used before; and I am always willing to ask questions and learn from my teammates when needed. |
+| 2 | Accountability - If I take responsibility for a task, I will try to complete it on time and be honest with the team if I am stuck or running behind. |
+| 3 | Teamwork - I like hearing different ideas and working together instead of everyone working separately without knowing what the others are doing. |
+| 4 | Reliability - I want my teammates to be able to rely on me to attend our meetings, respond to important messages and complete the work I agreed to do. |
+| 5 | Curiosity - I like understanding how something works and looking at different ways we could solve a problem instead of immediately settling on the first solution. |
 
 **Name:** [Team Member Name]
 
