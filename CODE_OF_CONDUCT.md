@@ -120,21 +120,21 @@ Reliability:	My teammates should be able to depend on me to attend meetings, res
 | 4 | Reliability - I want my teammates to be able to rely on me to attend our meetings, respond to important messages and complete the work I agreed to do. |
 | 5 | Curiosity - I like understanding how something works and looking at different ways we could solve a problem instead of immediately settling on the first solution. |
 
-**Name:** [Team Member Name]
+**Name:** Claire Shadaya
 
 | Value | Definition / Example |
 |---|---|
-| 1 | [Definition / Example] |
-| 2 | [Definition / Example] |
-| 3 | [Definition / Example] |
-| 4 | [Definition / Example] |
-| 5 | [Definition / Example] |
+| 1 | Transparency - I value good communicating well with my team and being honest and open about our progress and any concerns we might have. 
+| 2 | Kindness - I believe that in order to work well together kindness plays a great key. It creates an environment that pushes us to do our best as we motivate and consider each other.
+| 3 | Reliability - I desire for us to be able to rely on each knowing that team members stay true to their word and follow through on said promises as we complete given tasks.
+| 4 | Excellence - My personal aim is to produce the best work i can produce. To care about my work and obtain the highest mark in my capacity. 
+| 5 | Respect - I have a deep desire for team members to respect each other and each others ideas and efforts. 
 
 ## Signatures
 
 By signing below, each team member agrees to the terms and conditions outlined in this contract.
 
-- [Signature — Name 1] — [Date]
+- Claire Shadaya — 21/09/2026
 - EM Emmanuel Masango — 17/09/2026
 - Faisal Al Rashid — Sept/18/2026
 - [Signature — Name 4] — [Date]
