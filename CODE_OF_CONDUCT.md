@@ -1,6 +1,7 @@
 ---
-title: Teamwork Code of Conduct
-subtitle: Team contract template, Fall 2026
+Title: Specialized Biomedical Project: Asset-Centric Maintenance Management System for
+Medical Device Field Service 
+Subtitle: COMP 4910 Capstone — Project Proposal #22, Fall 2026
 ---
 
 ## Team Members
@@ -29,16 +30,16 @@ Should be tested and applicable. The document should also be reviewed by at leas
 ## Communication
 
 **Regular in-person meetings (when, where, and purpose):**
-we will meet every monday at 1pm for atleast 1 hour
+We will meet every monday at 1pm for atleast 1 hour. Also we will meet Charolette (Owner)  according to the agreed schedule whenever required. 
 
 **Regular online meetings (when and on what platform):**
-Additional online meetings will be held as needed, especially before major deadlines, using Microsoft Teams, Zoom, or Discord depending on the team's preference.
+Additional online meetings will be held as needed, especially before major deadlines, using Microsoft Teams, or Discord depending on the team's preference.
 
 **Primary communication tools for informal and project-related discussions:**
 A team group chat, such as Microsoft Teams, Discord, or WhatsApp, will be used for quick communication.
 
 **How and when we will meet with our mentor:**
-The team will meet with the mentor regularly according to the agreed course/project schedule and whenever significant guidance is required.
+We will meet with the mentor regularly according to the agreed course/project schedule and whenever significant guidance is required.
 
 ## Task Management
 
@@ -54,20 +55,23 @@ We will discuss and divide tasks during our Monday team meetings based on each m
 The main branch will contain stable work. Team members will create separate branches for features or tasks they are working on and avoid making major changes directly to the main branch.
 
 **Process for submitting and merging pull requests:**
-When work on a branch is ready, the team member will create a pull request with a short explanation of what was changed. At least one other team member should review the pull request before it is merged into the main branch.
+When work on a branch is ready, the team member will create a pull request with a short explanation of what was changed. At least one other team member should review the pull request before it is merged into the main branch and notify group about changes made.
 
 **Expected timeframe for reviewing a teammate's pull request:**
 Team members should try to review pull requests within 24–48 hours. If something is urgent because of a deadline, the team will communicate through WhatsApp.
 
 ## Breach of Contract
 
-What is our agreed-upon three-step process for addressing a breach of this contract?
+Here is the three-step process for addressing a breach of this contract:
 
-1.⁠ ⁠*Direct discussion:* The team will first privately discuss the issue with the member involved, clarify expectations, understand the circumstances, and agree on a reasonable solution or corrective action.
-2.⁠ ⁠*Team discussion and documentation:* If the problem continues, the team will discuss it formally as a group, document the concern and agreed actions, and establish a clear deadline for improvement.
-3.⁠ ⁠*Mentor/instructor involvement:* If the issue remains unresolved or seriously affects the project, the team will bring the documented concern to the mentor or instructor and follow their guidance.
+| Step | Process |
+|---|---|
+| 1 | **Direct Discussion:** The team will first privately discuss the issue with the member involved, clarify expectations, understand the circumstances, and agree on a reasonable solution or corrective action. |
+| 2 | **Team Discussion and Documentation:** If the problem continues, the team will formally discuss it as a group, document the concern and agreed actions, and establish a clear deadline for improvement. |
+| 3 | **Mentor/Instructor Involvement:** If the issue remains unresolved or seriously affects the project, the team will bring the documented concern to the mentor or instructor and follow their guidance. |
 
 The purpose of this process is to resolve problems fairly and professionally rather than immediately assigning blame.
+
 
 
 ## Values Exercise
@@ -78,11 +82,11 @@ The purpose of this process is to resolve problems fairly and professionally rat
 
 | Value | Definition / Example |
 |---|---|
-| 1 | Accountability:	I take responsibility for the tasks assigned to me, communicate early if a problem occurs, and make sure my work is completed by the agreed deadline|
-| 2 |Integrity:	I am honest about my progress, mistakes, limitations, and contributions and do not claim work that I did not complete|
-| 3 |Respect:	I listen to teammates' ideas, provide constructive feedback, and respect their time, backgrounds, and perspectives|
-| 4 |Quality:	I aim to produce work that is accurate, tested, organized, and suitable for inclusion in the final project |
-| 5 |Reliability:	My teammates should be able to depend on me to attend meetings, respond to important messages, and complete agreed responsibilities |
+| 1 | Accountability -	I take responsibility for the tasks assigned to me, communicate early if a problem occurs, and make sure my work is completed by the agreed deadline|
+| 2 |Integrity -	I am honest about my progress, mistakes, limitations, and contributions and do not claim work that I did not complete|
+| 3 |Respect -	I listen to teammates' ideas, provide constructive feedback, and respect their time, backgrounds, and perspectives|
+| 4 |Quality -	I aim to produce work that is accurate, tested, organized, and suitable for inclusion in the final project |
+| 5 |Reliability -	My teammates should be able to depend on me to attend meetings, respond to important messages, and complete agreed responsibilities |
 
 
 **Name:** Emmanuel Masango 
@@ -122,4 +126,4 @@ By signing below, each team member agrees to the terms and conditions outlined i
 - Claire Shadaya — 21/09/2026
 - EM Emmanuel Masango — 17/09/2026
 - Faisal Al Rashid — Sept/18/2026
-- [Signature — Name 4] — [Date]
+- Bhawanjot Kaur — Sept/21/2026 
