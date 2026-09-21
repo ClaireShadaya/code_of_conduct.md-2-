@@ -3,16 +3,6 @@ title: Teamwork Code of Conduct
 subtitle: Team contract template, Fall 2026
 ---
 
-This document is a framework for your team to establish a clear and effective working agreement. Fill out the sections below **as a team** to create your official contract.
-
-:::{important}
-Copy this page into your GitHub group repository as `CODE_OF_CONDUCT.md`, complete every section, and submit it as part of the Teamwork Contract and Project Scoping deliverable — due **Monday, September 21** (Week 3). See [the syllabus](syllabus.md#teamwork-contract) for how it is marked.
-:::
-
-:::{tip}
-This is graded on specificity rather than polish. "We will communicate well" carries little credit. "Progress posted to the team channel by Monday 9 AM, with anyone silent for 72 hours escalated to the supervisor" is what the contract is for.
-:::
-
 ## Team Members
 
 What are the names of all the team members?
@@ -31,7 +21,7 @@ Approximately 8–10 hours per week per team member, depending on the workload a
 Individual tasks should ideally be completed at least 1–2 days before the final deliverable deadline.
 
 **Process for notifying the team if a member cannot complete tasks on time:**
-The member should notify the team as soon as they become aware of the issue, preferably at least 1–2 hours before the internal deadline. They should explain what has been completed, what remains unfinished, and whether they need assistance or reassignment of part of the task.
+The member should notify the team as soon as they become aware of the issue, preferably at least 1–2 days before the internal deadline. They should explain what has been completed, what remains unfinished, and whether they need assistance or reassignment of part of the task.
 
 **Quality standards for all submissions:**
 Should be tested and applicable. The document should also be reviewed by at least 1 other team member
@@ -82,23 +72,18 @@ The purpose of this process is to resolve problems fairly and professionally rat
 
 ## Values Exercise
 
-Each team member should pick their **top 5 personal values** from the list of common personal values and provide a brief definition or description for each. This helps the team understand each member's priorities and perspectives.
-
-:::{dropdown} A list of common personal values to choose from
-Accountability · Achievement · Adaptability · Ambition · Authenticity · Balance · Collaboration · Compassion · Courage · Creativity · Curiosity · Dependability · Discipline · Empathy · Equity · Excellence · Fairness · Family · Flexibility · Growth · Health · Honesty · Humility · Humour · Independence · Initiative · Integrity · Kindness · Leadership · Learning · Loyalty · Openness · Optimism · Patience · Perseverance · Precision · Pragmatism · Privacy · Recognition · Reliability · Respect · Responsibility · Security · Self-improvement · Service · Simplicity · Stability · Sustainability · Teamwork · Transparency · Trust · Wellbeing
-:::
-
-
 ### Team member values
 
 **Name:** Bhawanjot kaur
 
-Value	            Definition / Example
-Accountability:	I take responsibility for the tasks assigned to me, communicate early if a problem occurs, and make sure my work is completed by the agreed deadline.
-Integrity:	I am honest about my progress, mistakes, limitations, and contributions and do not claim work that I did not complete.
-Respect:	I listen to teammates' ideas, provide constructive feedback, and respect their time, backgrounds, and perspectives.
-Quality:	I aim to produce work that is accurate, tested, organized, and suitable for inclusion in the final project.
-Reliability:	My teammates should be able to depend on me to attend meetings, respond to important messages, and complete agreed responsibilities.
+| Value | Definition / Example |
+|---|---|
+| 1 | Accountability:	I take responsibility for the tasks assigned to me, communicate early if a problem occurs, and make sure my work is completed by the agreed deadline|
+| 2 |Integrity:	I am honest about my progress, mistakes, limitations, and contributions and do not claim work that I did not complete|
+| 3 |Respect:	I listen to teammates' ideas, provide constructive feedback, and respect their time, backgrounds, and perspectives|
+| 4 |Quality:	I aim to produce work that is accurate, tested, organized, and suitable for inclusion in the final project |
+| 5 |Reliability:	My teammates should be able to depend on me to attend meetings, respond to important messages, and complete agreed responsibilities |
+
 
 **Name:** Emmanuel Masango 
 
