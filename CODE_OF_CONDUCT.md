@@ -1,7 +1,6 @@
 ---
-Title: Specialized Biomedical Project: Asset-Centric Maintenance Management System for
-Medical Device Field Service 
-Subtitle: COMP 4910 Capstone — Project Proposal #22, Fall 2026
+Title: "Specialized Biomedical Project: Asset-Centric Maintenance Management System for Medical Device Field Service"
+Subtitle: "COMP 4910 Capstone – Project Proposal #22, Fall 2026"
 ---
 
 ## Team Members
